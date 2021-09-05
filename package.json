@@ -1,0 +1,10 @@
+{
+  "name": "js-lesson07-challenge-02-grocery-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "package.json": "2.0.1"
+  },
+  "keywords": []
+}
